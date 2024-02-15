@@ -1,0 +1,10 @@
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\bin\Debug\Практическая 7 питпм.exe.config
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\bin\Debug\Практическая 7 питпм.exe
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\bin\Debug\Практическая 7 питпм.pdb
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\obj\Debug\Практическая 7 питпм.csproj.AssemblyReference.cache
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\obj\Debug\Практическая_7_питпм.Form1.resources
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\obj\Debug\Практическая_7_питпм.Properties.Resources.resources
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\obj\Debug\Практическая 7 питпм.csproj.GenerateResource.cache
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\obj\Debug\Практическая 7 питпм.csproj.CoreCompileInputs.cache
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\obj\Debug\Практическая 7 питпм.exe
+C:\Users\Bikmacs\Documents\Практическая 7 питпм\Практическая 7 питпм\obj\Debug\Практическая 7 питпм.pdb
